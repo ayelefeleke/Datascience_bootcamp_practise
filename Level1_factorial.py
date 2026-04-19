@@ -1,4 +1,4 @@
-
+#to calculate factorial of the numbers
 # Ask the user to enter input
 print("Enter a number to compute its factorial:")
 n = int(input())  # it try to convert input to integer
